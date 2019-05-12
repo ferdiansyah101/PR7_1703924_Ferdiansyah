@@ -1,0 +1,10 @@
+#navbar-1 a:hover{
+	background: orange;
+}
+#navbar-1 a{
+	margin-left: 10px;
+}
+
+.align-custom td{
+	vertical-align:middle!important;
+}

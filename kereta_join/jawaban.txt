@@ -1,0 +1,3 @@
+Left Join : Menghubungkan dua tabel atau lebih, dengan menampilkan semua nilai pada tabel kiri dan untuk tabel kanan jika tidak memiliki hubungan dengan table kiri maka akan menampilkan null(kosong);
+Left Join : Menghubungkan dua tabel atau lebih, dengan menampilkan semua nilai pada tabel kanan dan untuk tabel kiri jika tidak memiliki hubungan dengan table kanan maka akan menampilkan null(kosong);
+Inner Join : Menghubungkan dua tabel atau lebih, menampilka semua data yang memiliki hubungan (foreign key)
