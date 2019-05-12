@@ -15,7 +15,7 @@
 		<a href="<?php echo site_url('C_Kereta/rightjoin') ?>"><button>Right Join</button></a>
 		<a href="<?php echo site_url('C_Kereta/innerjoin') ?>"><button>Inner Join</button></a>
 	</div>
-	<div class="container mt-5">
+	<div class="container mt-5 bg-success">
 		<table class="table table-bordered ">
 			<tr class="text-center">
 				<th>Kode Kereta</th>
